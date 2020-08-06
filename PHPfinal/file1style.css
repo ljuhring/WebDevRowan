@@ -1,0 +1,47 @@
+  header {
+            background-color: darkblue;
+            color: white;
+            text-align: center;
+            padding: 5px;
+            font-size: 30;
+        }
+
+body {
+    font-size: 20;
+    background-color: lightskyblue;
+    text-align: center;
+    align-content: center;
+}
+a {
+    color: #7ab55c;
+    text-decoration: none;
+}
+   
+nav {
+    line-height: 30px;
+    background-color: #eeeeee;
+    padding: 5px;
+}
+table {
+    padding: 10px;
+    word-spacing: 10px;
+    border: royalblue;
+    border-style: solid;
+    align-content: center;
+    text-align: center;
+    width:70%; 
+    margin-left:15%; 
+    margin-right:15%;
+    
+}
+.About{
+    text-align: center;
+}
+
+ul {
+    align-content: center;
+}
+
+
+
+
